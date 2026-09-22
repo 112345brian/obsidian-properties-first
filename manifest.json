@@ -1,7 +1,7 @@
 {
 	"id": "properties-first",
 	"name": "Properties First",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.0.0",
 	"description": "A Properties First plugin for Obsidian.",
 	"author": "Brian Powers",
